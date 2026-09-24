@@ -28,20 +28,6 @@
     "source": "propublica"
   },
   {
-    "id": "pp-911087612",
-    "name": "5th Avenue Theatre Association",
-    "mission": null,
-    "causeBundle": "Arts & Culture",
-    "nteeCode": "A650",
-    "city": "Seattle",
-    "county": "King",
-    "state": "WA",
-    "address": "1326 5TH AVE STE 735",
-    "website": "https://www.5thavenue.org",
-    "volunteerUrl": null,
-    "source": "propublica"
-  },
-  {
     "id": "pp-910787792",
     "name": "A Contemporary Theatre Inc",
     "mission": null,
@@ -658,20 +644,6 @@
     "source": "propublica"
   },
   {
-    "id": "pp-833981914",
-    "name": "Co2 Foundation",
-    "mission": null,
-    "causeBundle": "Environment",
-    "nteeCode": "C12",
-    "city": "Seattle",
-    "county": "King",
-    "state": "WA",
-    "address": "725 9TH AVE APT 2605",
-    "website": "https://co2foundation.org",
-    "volunteerUrl": null,
-    "source": "propublica"
-  },
-  {
     "id": "curated-cocoonhouse",
     "name": "Cocoon House",
     "mission": "Breaks the cycle of youth homelessness by providing shelter, housing support, family engagement, outreach, and education/employment services, meeting youth where they are.",
@@ -848,7 +820,7 @@
     "city": "Mercer Island",
     "county": "King",
     "state": "WA",
-    "address": "3040 78TH AVENUE SE1042",
+    "address": "PO BOX 1042",
     "website": "https://www.bezosacademy.org",
     "volunteerUrl": null,
     "source": "propublica"
@@ -1251,10 +1223,10 @@
     "mission": null,
     "causeBundle": "Human Services",
     "nteeCode": "P700",
-    "city": "Bellevue",
+    "city": "Seattle",
     "county": "King",
     "state": "WA",
-    "address": "1980 112TH AVE NE STE 210",
+    "address": "800 JEFFERSON ST STE 620",
     "website": "https://fulllifecare.org",
     "volunteerUrl": null,
     "source": "propublica"
@@ -1282,7 +1254,7 @@
     "city": "Seattle",
     "county": "King",
     "state": "WA",
-    "address": "500 5TH AVE N",
+    "address": "PO BOX 23350",
     "website": "https://www.gatesfoundation.org",
     "volunteerUrl": null,
     "source": "propublica"
@@ -1338,7 +1310,7 @@
     "city": "Seattle",
     "county": "King",
     "state": "WA",
-    "address": "5601 6TH S AVE STE 150",
+    "address": "5601 6TH AVE S STE 150",
     "website": "https://www.girlscoutsww.org",
     "volunteerUrl": null,
     "source": "propublica"
@@ -1506,7 +1478,7 @@
     "city": "Redmond",
     "county": "King",
     "state": "WA",
-    "address": "PO BOX 3577",
+    "address": "8990 154TH AVE NE",
     "website": "https://www.hopelink.org/",
     "volunteerUrl": null,
     "source": "propublica"
@@ -1587,10 +1559,10 @@
     "mission": null,
     "causeBundle": "Arts & Culture",
     "nteeCode": "A230",
-    "city": "Bellevue",
+    "city": "Redmond",
     "county": "King",
     "state": "WA",
-    "address": "PO BOX 404",
+    "address": "16305 NE 87TH ST STE 112",
     "website": "https://iacswa.org/",
     "volunteerUrl": null,
     "source": "propublica"
@@ -2212,20 +2184,6 @@
     "source": "propublica"
   },
   {
-    "id": "pp-912021165",
-    "name": "Pcc Farmland Trust",
-    "mission": null,
-    "causeBundle": "Environment",
-    "nteeCode": "C340",
-    "city": "Seattle",
-    "county": "King",
-    "state": "WA",
-    "address": "450 ALASKAN WAY S STE 200",
-    "website": "https://pccfarmlandtrust.org",
-    "volunteerUrl": null,
-    "source": "propublica"
-  },
-  {
     "id": "pp-910963132",
     "name": "Pilchuck Glass School",
     "mission": null,
@@ -2360,7 +2318,7 @@
     "city": "Bellevue",
     "county": "King",
     "state": "WA",
-    "address": "11980 112TH AVE STE 210",
+    "address": "1980 112TH AVE NE STE 210",
     "website": "https://www.transformingage.org",
     "volunteerUrl": null,
     "source": "propublica"
@@ -2408,20 +2366,6 @@
     "source": "propublica"
   },
   {
-    "id": "pp-910844345",
-    "name": "Puget Sound Electrical Apprenticeship And Training Trust",
-    "mission": null,
-    "causeBundle": "Education",
-    "nteeCode": "B300",
-    "city": "Renton",
-    "county": "King",
-    "state": "WA",
-    "address": "550 SW 7TH ST",
-    "website": "https://www.psejatc.org",
-    "volunteerUrl": null,
-    "source": "propublica"
-  },
-  {
     "id": "pp-911102033",
     "name": "Puget Sound Kidney Centers",
     "mission": null,
@@ -2432,20 +2376,6 @@
     "state": "WA",
     "address": "1019 PACIFIC AVE",
     "website": "https://www.pskc.net",
-    "volunteerUrl": null,
-    "source": "propublica"
-  },
-  {
-    "id": "pp-911296595",
-    "name": "Puget Sound Regional Services",
-    "mission": null,
-    "causeBundle": "Human Services",
-    "nteeCode": "P70",
-    "city": "Renton",
-    "county": "King",
-    "state": "WA",
-    "address": "149 PARK AVE N UNIT A",
-    "website": "https://gopsrs.org",
     "volunteerUrl": null,
     "source": "propublica"
   },
@@ -2506,20 +2436,6 @@
     "source": "propublica"
   },
   {
-    "id": "pp-911296964",
-    "name": "Refugee Womens Alliance",
-    "mission": null,
-    "causeBundle": "Human Services",
-    "nteeCode": "P84Z",
-    "city": "Seattle",
-    "county": "King",
-    "state": "WA",
-    "address": "4008 MLK JR WAY",
-    "website": "https://www.rewa.org",
-    "volunteerUrl": null,
-    "source": "propublica"
-  },
-  {
     "id": "pp-320581904",
     "name": "Roots And Wings Foundation Inc",
     "mission": null,
@@ -2558,20 +2474,6 @@
     "state": "WA",
     "address": "2901 3RD AVE STE 330",
     "website": "https://sagebionetworks.org",
-    "volunteerUrl": null,
-    "source": "propublica"
-  },
-  {
-    "id": "pp-911641746",
-    "name": "Samis Foundation",
-    "mission": null,
-    "causeBundle": "Other",
-    "nteeCode": "T22Z",
-    "city": "Seattle",
-    "county": "King",
-    "state": "WA",
-    "address": "208 JAMES ST STE C",
-    "website": "https://samisfoundation.org",
     "volunteerUrl": null,
     "source": "propublica"
   },
@@ -3452,7 +3354,7 @@
     "city": "Seattle",
     "county": "King",
     "state": "WA",
-    "address": "210 S HUDSON ST STE 307",
+    "address": "210 S HUDSON ST 307",
     "website": "https://www.villagereach.org",
     "volunteerUrl": null,
     "source": "propublica"
@@ -3496,6 +3398,20 @@
     "state": "WA",
     "address": "1417 4TH AVE STE 800",
     "website": "https://wcactionef.org",
+    "volunteerUrl": null,
+    "source": "propublica"
+  },
+  {
+    "id": "pp-912021165",
+    "name": "Washington Farmland Trust",
+    "mission": null,
+    "causeBundle": "Environment",
+    "nteeCode": "C340",
+    "city": "Seattle",
+    "county": "King",
+    "state": "WA",
+    "address": "450 ALASKAN WAY S STE 200",
+    "website": "https://pccfarmlandtrust.org",
     "volunteerUrl": null,
     "source": "propublica"
   },
@@ -3634,7 +3550,7 @@
     "city": "Seattle",
     "county": "King",
     "state": "WA",
-    "address": "1118 5TH AVE",
+    "address": "1118 FIFTH AVE",
     "website": "https://www.ywcaworks.org",
     "volunteerUrl": null,
     "source": "propublica"
