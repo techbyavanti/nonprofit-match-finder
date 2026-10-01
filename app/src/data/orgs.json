@@ -1912,7 +1912,7 @@
     "city": "Bellevue",
     "county": "King",
     "state": "WA",
-    "address": "12011 NE BEL RED RD STE 100B",
+    "address": null,
     "website": "https://www.momsrising.org",
     "volunteerUrl": null,
     "source": "propublica"
