@@ -5,7 +5,7 @@ jobs in the Seattle area — built for people looking for community,
 structure, and social impact, with volunteering as a path into paid
 mission-driven work too.
 
-🔗 **Live:** [avantiwhenever.github.io/nonprofit-match-finder](https://avantiwhenever.github.io/nonprofit-match-finder/)
+🔗 **Live:** [techbyavanti.github.io/nonprofit-match-finder](https://techbyavanti.github.io/nonprofit-match-finder/)
 
 ## What it is
 
