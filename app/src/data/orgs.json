@@ -28,20 +28,6 @@
     "source": "propublica"
   },
   {
-    "id": "pp-910787792",
-    "name": "A Contemporary Theatre Inc",
-    "mission": null,
-    "causeBundle": "Arts & Culture",
-    "nteeCode": "A650",
-    "city": "Seattle",
-    "county": "King",
-    "state": "WA",
-    "address": "700 UNION ST",
-    "website": "https://www.acttheatre.org",
-    "volunteerUrl": null,
-    "source": "propublica"
-  },
-  {
     "id": "pp-460512048",
     "name": "Aldarra Foundation",
     "mission": null,
@@ -630,20 +616,6 @@
     "source": "propublica"
   },
   {
-    "id": "pp-932263138",
-    "name": "Clean And Prosperous America Education Fund",
-    "mission": null,
-    "causeBundle": "Environment",
-    "nteeCode": "C30",
-    "city": "Seattle",
-    "county": "King",
-    "state": "WA",
-    "address": "509 OLIVE WAY STE 1133",
-    "website": "https://capaeducation.org",
-    "volunteerUrl": null,
-    "source": "propublica"
-  },
-  {
     "id": "curated-cocoonhouse",
     "name": "Cocoon House",
     "mission": "Breaks the cycle of youth homelessness by providing shelter, housing support, family engagement, outreach, and education/employment services, meeting youth where they are.",
@@ -1036,20 +1008,6 @@
     "source": "propublica"
   },
   {
-    "id": "pp-992170547",
-    "name": "Excellent Schools Washington",
-    "mission": null,
-    "causeBundle": "Education",
-    "nteeCode": "B90",
-    "city": "Seattle",
-    "county": "King",
-    "state": "WA",
-    "address": "210 S HUDSON ST 310",
-    "website": "https://www.excellentschoolswa.org/",
-    "volunteerUrl": null,
-    "source": "propublica"
-  },
-  {
     "id": "pp-911626784",
     "name": "Experience Learning Community",
     "mission": null,
@@ -1204,6 +1162,20 @@
     "source": "propublica"
   },
   {
+    "id": "pp-843336800",
+    "name": "Front And Centered",
+    "mission": null,
+    "causeBundle": "Environment",
+    "nteeCode": "C99",
+    "city": "Seattle",
+    "county": "King",
+    "state": "WA",
+    "address": "2800 1ST AVE STE 201",
+    "website": "https://frontandcentered.org",
+    "volunteerUrl": null,
+    "source": "propublica"
+  },
+  {
     "id": "pp-911095588",
     "name": "Full Life Care",
     "mission": null,
@@ -1256,20 +1228,6 @@
     "state": "WA",
     "address": "2365 CARILLON PT",
     "website": "https://www.gatesfoundation.org/about/financials/foundation-trust",
-    "volunteerUrl": null,
-    "source": "propublica"
-  },
-  {
-    "id": "pp-473290897",
-    "name": "Gates Philanthropy Partners",
-    "mission": null,
-    "causeBundle": "Other",
-    "nteeCode": "T20",
-    "city": "Seattle",
-    "county": "King",
-    "state": "WA",
-    "address": "PO BOX 23350",
-    "website": "https://www.gatesphilanthropypartners.org",
     "volunteerUrl": null,
     "source": "propublica"
   },
@@ -3220,6 +3178,20 @@
     "source": "propublica"
   },
   {
+    "id": "pp-910787792",
+    "name": "Union Arts Center",
+    "mission": null,
+    "causeBundle": "Arts & Culture",
+    "nteeCode": "A650",
+    "city": "Seattle",
+    "county": "King",
+    "state": "WA",
+    "address": "700 UNION ST",
+    "website": "https://www.acttheatre.org",
+    "volunteerUrl": null,
+    "source": "propublica"
+  },
+  {
     "id": "pp-910565555",
     "name": "United Way Of King County",
     "mission": null,
@@ -3547,8 +3519,8 @@
     "mission": null,
     "causeBundle": "Human Services",
     "nteeCode": "P300",
-    "city": "Everett",
-    "county": "Snohomish",
+    "city": "Seattle",
+    "county": "King",
     "state": "WA",
     "address": "2500 NE 54TH ST",
     "website": "https://www.youthcare.org",
