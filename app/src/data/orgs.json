@@ -1232,6 +1232,20 @@
     "source": "propublica"
   },
   {
+    "id": "pp-473290897",
+    "name": "Gates Philanthropy Partners",
+    "mission": null,
+    "causeBundle": "Other",
+    "nteeCode": "T20",
+    "city": "Seattle",
+    "county": "King",
+    "state": "WA",
+    "address": "PO BOX 23350",
+    "website": "https://www.gatesphilanthropypartners.org",
+    "volunteerUrl": null,
+    "source": "propublica"
+  },
+  {
     "id": "pp-911685822",
     "name": "Gay City Health Project",
     "mission": null,
